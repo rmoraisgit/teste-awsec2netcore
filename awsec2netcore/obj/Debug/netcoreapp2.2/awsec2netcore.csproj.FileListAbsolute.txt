@@ -1,0 +1,14 @@
+C:\Users\Rafael\Desktop\awsec2netcore\awsec2netcore\bin\Debug\netcoreapp2.2\awsec2netcore.deps.json
+C:\Users\Rafael\Desktop\awsec2netcore\awsec2netcore\bin\Debug\netcoreapp2.2\awsec2netcore.runtimeconfig.json
+C:\Users\Rafael\Desktop\awsec2netcore\awsec2netcore\bin\Debug\netcoreapp2.2\awsec2netcore.runtimeconfig.dev.json
+C:\Users\Rafael\Desktop\awsec2netcore\awsec2netcore\bin\Debug\netcoreapp2.2\awsec2netcore.dll
+C:\Users\Rafael\Desktop\awsec2netcore\awsec2netcore\bin\Debug\netcoreapp2.2\awsec2netcore.pdb
+C:\Users\Rafael\Desktop\awsec2netcore\awsec2netcore\obj\Debug\netcoreapp2.2\awsec2netcore.csprojAssemblyReference.cache
+C:\Users\Rafael\Desktop\awsec2netcore\awsec2netcore\obj\Debug\netcoreapp2.2\awsec2netcore.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Desktop\awsec2netcore\awsec2netcore\obj\Debug\netcoreapp2.2\awsec2netcore.RazorAssemblyInfo.cache
+C:\Users\Rafael\Desktop\awsec2netcore\awsec2netcore\obj\Debug\netcoreapp2.2\awsec2netcore.RazorAssemblyInfo.cs
+C:\Users\Rafael\Desktop\awsec2netcore\awsec2netcore\obj\Debug\netcoreapp2.2\awsec2netcore.AssemblyInfoInputs.cache
+C:\Users\Rafael\Desktop\awsec2netcore\awsec2netcore\obj\Debug\netcoreapp2.2\awsec2netcore.AssemblyInfo.cs
+C:\Users\Rafael\Desktop\awsec2netcore\awsec2netcore\obj\Debug\netcoreapp2.2\awsec2netcore.RazorTargetAssemblyInfo.cache
+C:\Users\Rafael\Desktop\awsec2netcore\awsec2netcore\obj\Debug\netcoreapp2.2\awsec2netcore.dll
+C:\Users\Rafael\Desktop\awsec2netcore\awsec2netcore\obj\Debug\netcoreapp2.2\awsec2netcore.pdb
